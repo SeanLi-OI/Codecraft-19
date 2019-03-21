@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Codecraft/CodeCraft-2019/CodeCraft-2019.cpp
+stdio.h
+-
+vector
+-
+queue
+-
+stack
+-
+map
+-
+string
+-
+memory.h
+-
+iostream
+-
+
