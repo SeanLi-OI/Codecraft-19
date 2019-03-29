@@ -4,13 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ubuntu/Codecraft/CodeCraft-2019/CodeCraft-2019.cpp" "/home/ubuntu/Codecraft/build/CMakeFiles/CodeCraft-2019.dir/CodeCraft-2019.cpp.o"
+  "/home/ubuntu/Codecraft-19/CodeCraft-2019/CodeCraft-2019.cpp" "/home/ubuntu/Codecraft-19/build/CMakeFiles/CodeCraft-2019.dir/CodeCraft-2019.cpp.o"
+  "/home/ubuntu/Codecraft-19/CodeCraft-2019/sm.cpp" "/home/ubuntu/Codecraft-19/build/CMakeFiles/CodeCraft-2019.dir/sm.cpp.o"
+  "/home/ubuntu/Codecraft-19/CodeCraft-2019/util.cpp" "/home/ubuntu/Codecraft-19/build/CMakeFiles/CodeCraft-2019.dir/util.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/ubuntu/Codecraft/CodeCraft-2019/lib"
+  "/home/ubuntu/Codecraft-19/CodeCraft-2019/lib"
   )
 
 # Targets to which this target links.

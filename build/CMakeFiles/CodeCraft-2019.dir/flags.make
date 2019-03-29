@@ -6,5 +6,5 @@ CXX_FLAGS =  -O3 -Wall -std=c++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ubuntu/Codecraft/CodeCraft-2019/lib 
+CXX_INCLUDES = -I/home/ubuntu/Codecraft-19/CodeCraft-2019/lib 
 
