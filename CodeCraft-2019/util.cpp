@@ -3,7 +3,8 @@
 #include <utility>
 #include <vector>
 //CAR implement
-CAR::CAR(char buf[]){
+CAR::CAR(char buf[])
+{
     sscanf(buf, "(%d,%d,%d,%d,%d)", &id, &from, &to, &speed, &planTime);
 }
 
@@ -50,7 +51,7 @@ HEAP_NODE::HEAP_NODE(int _id, int _distance)
     id = _id;
     distance = _distance;
 }
-bool HEAP_NODE::operator<(HEAP_NODE a)const
+bool HEAP_NODE::operator<(HEAP_NODE a) const
 {
     return a.distance > distance;
 }
